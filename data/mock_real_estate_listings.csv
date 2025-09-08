@@ -1,0 +1,501 @@
+property_id,listing_date,location,property_type,bedrooms,bathrooms,size_sqm,price,status
+P0001,2023-01-01,Phuket,House,2,1,202,14135871,Pending
+P0002,2023-01-08,Pattaya,Land,1,2,108,3319124,Sold
+P0003,2023-01-15,Khon Kaen,Land,4,1,135,4923227,Available
+P0004,2023-01-22,Pattaya,Condo,3,1,275,3073290,Available
+P0005,2023-01-29,Pattaya,House,2,2,31,14331233,Available
+P0006,2023-02-05,Chiang Mai,Condo,1,1,108,3518970,Pending
+P0007,2023-02-12,Khon Kaen,Townhouse,5,4,232,4889877,Available
+P0008,2023-02-19,Khon Kaen,Townhouse,4,1,46,2727408,Available
+P0009,2023-02-26,Khon Kaen,Condo,2,4,27,3801742,Available
+P0010,2023-03-05,Pattaya,Land,2,4,151,12476880,Sold
+P0011,2023-03-12,Phuket,Land,3,4,212,2055675,Sold
+P0012,2023-03-19,Khon Kaen,Condo,3,3,38,7016854,Available
+P0013,2023-03-26,Pattaya,Condo,5,1,36,12952983,Sold
+P0014,2023-04-02,Chiang Mai,Townhouse,5,2,111,8436754,Pending
+P0015,2023-04-09,Phuket,Land,1,2,36,1965188,Available
+P0016,2023-04-16,Chiang Mai,Condo,1,1,49,14137311,Available
+P0017,2023-04-23,Phuket,Townhouse,5,3,267,3161088,Available
+P0018,2023-04-30,Pattaya,Land,5,3,146,9018006,Sold
+P0019,2023-05-07,Bangkok,House,4,4,171,3320484,Available
+P0020,2023-05-14,Phuket,Townhouse,3,1,79,5105223,Sold
+P0021,2023-05-21,Chiang Mai,Land,1,1,262,12211596,Sold
+P0022,2023-05-28,Pattaya,Land,3,2,197,13307655,Available
+P0023,2023-06-04,Phuket,Townhouse,3,1,245,12857400,Pending
+P0024,2023-06-11,Bangkok,House,5,3,143,1487510,Available
+P0025,2023-06-18,Bangkok,Townhouse,4,1,207,7354986,Available
+P0026,2023-06-25,Khon Kaen,Land,2,2,106,12963776,Sold
+P0027,2023-07-02,Khon Kaen,Condo,4,4,235,8609964,Sold
+P0028,2023-07-09,Chiang Mai,Condo,4,2,174,6795250,Available
+P0029,2023-07-16,Phuket,Townhouse,3,2,61,5055447,Sold
+P0030,2023-07-23,Phuket,Land,4,4,83,2673879,Pending
+P0031,2023-07-30,Khon Kaen,Condo,1,2,155,2780752,Available
+P0032,2023-08-06,Phuket,Land,3,2,226,4293331,Pending
+P0033,2023-08-13,Phuket,Townhouse,1,1,267,14457684,Available
+P0034,2023-08-20,Bangkok,Condo,2,1,59,4764455,Available
+P0035,2023-08-27,Khon Kaen,Land,3,4,117,8253817,Available
+P0036,2023-09-03,Pattaya,Condo,2,1,231,5335518,Sold
+P0037,2023-09-10,Khon Kaen,Townhouse,3,1,237,9791690,Sold
+P0038,2023-09-17,Pattaya,Land,5,2,183,9589747,Available
+P0039,2023-09-24,Bangkok,Condo,4,3,48,6222798,Available
+P0040,2023-10-01,Chiang Mai,Townhouse,5,1,28,4904722,Sold
+P0041,2023-10-08,Phuket,Condo,2,3,244,6215622,Available
+P0042,2023-10-15,Bangkok,Condo,4,1,44,12135474,Sold
+P0043,2023-10-22,Phuket,House,3,1,176,7879771,Sold
+P0044,2023-10-29,Chiang Mai,House,4,4,74,10596394,Available
+P0045,2023-11-05,Chiang Mai,Townhouse,1,4,201,9481209,Pending
+P0046,2023-11-12,Bangkok,House,4,4,120,4175684,Available
+P0047,2023-11-19,Chiang Mai,Townhouse,1,3,129,12772676,Pending
+P0048,2023-11-26,Pattaya,House,4,2,274,1629085,Sold
+P0049,2023-12-03,Chiang Mai,Condo,1,1,141,11348533,Sold
+P0050,2023-12-10,Phuket,Townhouse,2,1,252,12398495,Available
+P0051,2023-12-17,Phuket,Townhouse,5,1,90,10906695,Sold
+P0052,2023-12-24,Phuket,Condo,3,3,286,11401929,Available
+P0053,2023-12-31,Phuket,Townhouse,4,4,267,7071845,Available
+P0054,2024-01-07,Pattaya,Townhouse,5,2,210,3518638,Available
+P0055,2024-01-14,Khon Kaen,House,3,3,270,1603103,Available
+P0056,2024-01-21,Bangkok,Townhouse,3,4,149,13622191,Available
+P0057,2024-01-28,Phuket,Land,1,3,292,13954843,Sold
+P0058,2024-02-04,Chiang Mai,Condo,2,2,155,2989968,Sold
+P0059,2024-02-11,Phuket,House,2,4,261,11634462,Available
+P0060,2024-02-18,Chiang Mai,House,5,3,42,6303943,Sold
+P0061,2024-02-25,Chiang Mai,Land,2,2,64,6497191,Available
+P0062,2024-03-03,Phuket,Condo,4,1,45,14028289,Sold
+P0063,2024-03-10,Pattaya,Condo,2,2,249,12004849,Sold
+P0064,2024-03-17,Chiang Mai,House,5,1,32,12232194,Available
+P0065,2024-03-24,Chiang Mai,Townhouse,2,3,124,2257008,Sold
+P0066,2024-03-31,Phuket,House,4,4,264,7473507,Available
+P0067,2024-04-07,Chiang Mai,Condo,1,4,111,8437693,Available
+P0068,2024-04-14,Chiang Mai,Land,5,3,38,13458819,Sold
+P0069,2024-04-21,Phuket,House,1,4,26,6137997,Available
+P0070,2024-04-28,Phuket,Condo,1,4,65,13232296,Available
+P0071,2024-05-05,Bangkok,House,1,1,135,13005592,Available
+P0072,2024-05-12,Pattaya,Townhouse,3,3,38,13706169,Sold
+P0073,2024-05-19,Pattaya,House,3,2,255,8270518,Available
+P0074,2024-05-26,Chiang Mai,House,1,1,108,13406973,Available
+P0075,2024-06-02,Pattaya,Condo,5,3,154,6511934,Sold
+P0076,2024-06-09,Chiang Mai,Condo,4,1,255,9173321,Sold
+P0077,2024-06-16,Bangkok,Condo,4,2,169,8899284,Available
+P0078,2024-06-23,Phuket,House,2,2,52,2003171,Available
+P0079,2024-06-30,Phuket,Townhouse,5,3,90,8214938,Available
+P0080,2024-07-07,Phuket,Land,3,2,187,3900737,Available
+P0081,2024-07-14,Pattaya,Land,1,1,253,2370485,Available
+P0082,2024-07-21,Bangkok,Condo,2,2,285,8045900,Sold
+P0083,2024-07-28,Pattaya,Condo,4,1,188,2681076,Sold
+P0084,2024-08-04,Pattaya,House,3,1,34,11000543,Sold
+P0085,2024-08-11,Bangkok,Land,3,2,219,9501598,Available
+P0086,2024-08-18,Bangkok,Condo,1,3,142,6312399,Sold
+P0087,2024-08-25,Bangkok,Townhouse,4,4,294,14640991,Available
+P0088,2024-09-01,Bangkok,Townhouse,5,2,104,14823263,Pending
+P0089,2024-09-08,Phuket,Condo,3,1,117,1981883,Sold
+P0090,2024-09-15,Khon Kaen,Condo,1,1,290,2668321,Available
+P0091,2024-09-22,Khon Kaen,Land,5,2,281,14296138,Sold
+P0092,2024-09-29,Bangkok,Land,4,3,157,4293705,Available
+P0093,2024-10-06,Khon Kaen,House,3,3,288,11007310,Sold
+P0094,2024-10-13,Khon Kaen,Land,5,1,195,7154512,Available
+P0095,2024-10-20,Bangkok,Townhouse,5,1,25,10888679,Available
+P0096,2024-10-27,Khon Kaen,Townhouse,5,3,88,4759505,Sold
+P0097,2024-11-03,Pattaya,Condo,3,4,145,9415414,Available
+P0098,2024-11-10,Chiang Mai,Land,3,2,131,6418952,Sold
+P0099,2024-11-17,Chiang Mai,House,2,1,199,5609688,Available
+P0100,2024-11-24,Bangkok,Townhouse,4,1,228,5264423,Sold
+P0101,2024-12-01,Phuket,Townhouse,1,3,189,11262330,Sold
+P0102,2024-12-08,Bangkok,House,5,2,144,14816653,Available
+P0103,2024-12-15,Phuket,House,2,3,68,9181883,Available
+P0104,2024-12-22,Chiang Mai,Townhouse,1,2,180,9306681,Available
+P0105,2024-12-29,Bangkok,Townhouse,2,2,231,8170837,Available
+P0106,2025-01-05,Pattaya,House,3,2,132,2519603,Available
+P0107,2025-01-12,Khon Kaen,Townhouse,5,1,275,11357149,Sold
+P0108,2025-01-19,Phuket,Condo,1,4,154,11893267,Pending
+P0109,2025-01-26,Khon Kaen,Condo,1,3,44,2750740,Sold
+P0110,2025-02-02,Khon Kaen,House,1,4,25,1863403,Sold
+P0111,2025-02-09,Bangkok,Land,1,3,143,10268511,Sold
+P0112,2025-02-16,Khon Kaen,House,1,2,59,1885421,Sold
+P0113,2025-02-23,Pattaya,House,2,1,222,5278384,Available
+P0114,2025-03-02,Khon Kaen,Land,5,4,269,6495671,Pending
+P0115,2025-03-09,Bangkok,Land,3,1,83,1978836,Sold
+P0116,2025-03-16,Pattaya,Land,3,3,185,4223522,Available
+P0117,2025-03-23,Chiang Mai,Condo,3,1,203,3217181,Available
+P0118,2025-03-30,Khon Kaen,Townhouse,3,1,230,9568438,Available
+P0119,2025-04-06,Bangkok,Condo,2,4,36,2556518,Available
+P0120,2025-04-13,Chiang Mai,Townhouse,4,2,205,12872752,Sold
+P0121,2025-04-20,Chiang Mai,Condo,5,1,266,3659083,Available
+P0122,2025-04-27,Phuket,Townhouse,1,2,240,5113640,Available
+P0123,2025-05-04,Pattaya,Condo,4,3,275,5500398,Pending
+P0124,2025-05-11,Khon Kaen,Land,3,1,150,10625105,Available
+P0125,2025-05-18,Bangkok,House,4,4,241,14994132,Available
+P0126,2025-05-25,Phuket,Condo,5,3,209,5877708,Available
+P0127,2025-06-01,Pattaya,Townhouse,1,3,63,10935869,Sold
+P0128,2025-06-08,Phuket,Land,1,4,247,8880317,Pending
+P0129,2025-06-15,Pattaya,Condo,5,1,208,10254791,Available
+P0130,2025-06-22,Pattaya,Condo,5,1,202,10011501,Sold
+P0131,2025-06-29,Khon Kaen,Land,3,3,175,9281447,Available
+P0132,2025-07-06,Pattaya,Condo,1,1,150,14424877,Pending
+P0133,2025-07-13,Phuket,House,4,2,258,13927622,Sold
+P0134,2025-07-20,Pattaya,Condo,2,4,32,4895958,Sold
+P0135,2025-07-27,Khon Kaen,House,2,2,153,14215455,Available
+P0136,2025-08-03,Khon Kaen,House,5,1,288,8076042,Pending
+P0137,2025-08-10,Phuket,Land,3,3,181,9839765,Sold
+P0138,2025-08-17,Chiang Mai,Condo,2,4,29,14689493,Available
+P0139,2025-08-24,Chiang Mai,Land,1,1,110,2265898,Sold
+P0140,2025-08-31,Pattaya,Condo,5,1,199,3120539,Available
+P0141,2025-09-07,Bangkok,Condo,4,3,217,1880412,Sold
+P0142,2025-09-14,Pattaya,Townhouse,5,3,143,6947148,Available
+P0143,2025-09-21,Phuket,Condo,4,2,242,4231185,Sold
+P0144,2025-09-28,Phuket,Land,5,4,138,11629889,Available
+P0145,2025-10-05,Phuket,House,5,4,169,13122652,Available
+P0146,2025-10-12,Phuket,Condo,5,3,50,8319764,Available
+P0147,2025-10-19,Phuket,Townhouse,4,2,160,9706483,Available
+P0148,2025-10-26,Khon Kaen,Land,4,4,256,6923098,Available
+P0149,2025-11-02,Chiang Mai,Condo,5,3,100,2228337,Available
+P0150,2025-11-09,Phuket,Land,2,1,25,12054686,Available
+P0151,2025-11-16,Bangkok,Townhouse,3,4,171,1484814,Available
+P0152,2025-11-23,Bangkok,Townhouse,3,2,166,9359922,Available
+P0153,2025-11-30,Bangkok,Land,3,2,77,10614742,Sold
+P0154,2025-12-07,Bangkok,Condo,4,2,93,4690583,Available
+P0155,2025-12-14,Khon Kaen,House,4,1,114,11908715,Pending
+P0156,2025-12-21,Bangkok,Townhouse,2,4,244,11019276,Sold
+P0157,2025-12-28,Phuket,Condo,3,4,216,14635242,Sold
+P0158,2026-01-04,Pattaya,Condo,3,1,87,2599908,Available
+P0159,2026-01-11,Bangkok,House,5,4,97,3164412,Sold
+P0160,2026-01-18,Khon Kaen,Townhouse,4,1,185,6309792,Available
+P0161,2026-01-25,Khon Kaen,Townhouse,3,1,193,3353847,Available
+P0162,2026-02-01,Bangkok,Condo,2,1,113,12018754,Available
+P0163,2026-02-08,Pattaya,Condo,2,2,200,3892478,Sold
+P0164,2026-02-15,Bangkok,House,3,4,293,2984117,Available
+P0165,2026-02-22,Khon Kaen,House,4,1,97,11831890,Available
+P0166,2026-03-01,Chiang Mai,Townhouse,2,4,269,14451286,Pending
+P0167,2026-03-08,Phuket,Land,5,2,101,6949852,Sold
+P0168,2026-03-15,Khon Kaen,Townhouse,2,1,183,1029725,Available
+P0169,2026-03-22,Bangkok,Condo,1,3,122,10574182,Available
+P0170,2026-03-29,Phuket,Townhouse,1,2,126,13687467,Sold
+P0171,2026-04-05,Bangkok,Land,4,3,156,10184536,Available
+P0172,2026-04-12,Bangkok,House,3,4,126,1888036,Available
+P0173,2026-04-19,Chiang Mai,Land,4,4,43,3971783,Available
+P0174,2026-04-26,Phuket,Land,4,2,106,3662761,Pending
+P0175,2026-05-03,Phuket,Land,4,4,153,7524559,Sold
+P0176,2026-05-10,Chiang Mai,House,4,3,113,14565511,Sold
+P0177,2026-05-17,Khon Kaen,Land,5,1,237,3513024,Sold
+P0178,2026-05-24,Bangkok,Land,5,1,167,11928642,Available
+P0179,2026-05-31,Pattaya,Land,2,1,89,3398083,Available
+P0180,2026-06-07,Bangkok,Condo,1,2,100,7536295,Available
+P0181,2026-06-14,Bangkok,Land,4,4,223,11941922,Available
+P0182,2026-06-21,Khon Kaen,House,2,3,167,14128927,Available
+P0183,2026-06-28,Bangkok,Land,1,4,117,4909439,Sold
+P0184,2026-07-05,Chiang Mai,Land,3,4,248,14726569,Sold
+P0185,2026-07-12,Chiang Mai,House,5,4,126,6627745,Sold
+P0186,2026-07-19,Phuket,Land,1,1,291,4911146,Available
+P0187,2026-07-26,Pattaya,House,3,3,134,11029528,Sold
+P0188,2026-08-02,Bangkok,Land,1,3,289,2707017,Sold
+P0189,2026-08-09,Bangkok,House,5,4,27,1689556,Available
+P0190,2026-08-16,Khon Kaen,Land,5,1,109,12177855,Sold
+P0191,2026-08-23,Chiang Mai,Land,2,1,141,12245869,Available
+P0192,2026-08-30,Pattaya,Condo,4,3,245,12614438,Available
+P0193,2026-09-06,Phuket,Condo,1,1,178,8288538,Available
+P0194,2026-09-13,Chiang Mai,Land,1,1,177,3253722,Available
+P0195,2026-09-20,Phuket,Land,3,1,36,2649729,Available
+P0196,2026-09-27,Khon Kaen,Townhouse,5,2,157,2116271,Sold
+P0197,2026-10-04,Khon Kaen,House,1,4,252,11916876,Pending
+P0198,2026-10-11,Bangkok,Townhouse,5,3,295,4099555,Sold
+P0199,2026-10-18,Pattaya,Condo,1,3,67,6683797,Sold
+P0200,2026-10-25,Phuket,Condo,2,2,45,2681641,Available
+P0201,2026-11-01,Chiang Mai,Condo,4,4,131,14650521,Sold
+P0202,2026-11-08,Khon Kaen,Condo,1,3,141,1516409,Available
+P0203,2026-11-15,Bangkok,Land,5,1,148,1666165,Available
+P0204,2026-11-22,Bangkok,Condo,2,3,227,3788363,Available
+P0205,2026-11-29,Phuket,Land,1,1,75,14825997,Available
+P0206,2026-12-06,Khon Kaen,Land,3,2,295,5476321,Available
+P0207,2026-12-13,Pattaya,Condo,4,1,165,4710388,Available
+P0208,2026-12-20,Khon Kaen,Condo,1,3,299,4235192,Available
+P0209,2026-12-27,Phuket,House,2,3,76,12156499,Pending
+P0210,2027-01-03,Phuket,Townhouse,3,3,51,12651658,Available
+P0211,2027-01-10,Khon Kaen,Condo,2,2,181,11129295,Available
+P0212,2027-01-17,Phuket,House,2,2,263,2935090,Available
+P0213,2027-01-24,Khon Kaen,House,3,4,180,10133790,Sold
+P0214,2027-01-31,Chiang Mai,Townhouse,2,3,160,4937270,Available
+P0215,2027-02-07,Khon Kaen,Land,3,1,168,7739013,Available
+P0216,2027-02-14,Khon Kaen,Condo,1,2,130,8089975,Available
+P0217,2027-02-21,Phuket,Townhouse,3,3,182,9805586,Available
+P0218,2027-02-28,Phuket,Condo,3,3,170,2033316,Available
+P0219,2027-03-07,Bangkok,House,4,2,26,5819075,Available
+P0220,2027-03-14,Bangkok,House,3,4,101,12009646,Available
+P0221,2027-03-21,Chiang Mai,Land,3,2,156,12768963,Available
+P0222,2027-03-28,Bangkok,House,1,2,114,14125513,Available
+P0223,2027-04-04,Khon Kaen,House,4,1,287,11159093,Sold
+P0224,2027-04-11,Phuket,Townhouse,5,1,132,14746402,Available
+P0225,2027-04-18,Bangkok,Condo,1,4,98,5742297,Available
+P0226,2027-04-25,Bangkok,Condo,1,3,63,4868452,Available
+P0227,2027-05-02,Chiang Mai,Townhouse,5,2,183,13394213,Pending
+P0228,2027-05-09,Chiang Mai,Land,3,4,95,11589652,Available
+P0229,2027-05-16,Khon Kaen,Condo,2,1,265,9074037,Available
+P0230,2027-05-23,Phuket,House,4,2,60,2312743,Sold
+P0231,2027-05-30,Chiang Mai,Condo,2,3,108,12129702,Available
+P0232,2027-06-06,Bangkok,House,5,1,287,14822356,Available
+P0233,2027-06-13,Phuket,Land,1,1,196,8420105,Available
+P0234,2027-06-20,Phuket,Townhouse,1,1,197,11315813,Sold
+P0235,2027-06-27,Bangkok,Condo,4,4,71,13123053,Available
+P0236,2027-07-04,Chiang Mai,Townhouse,1,3,165,1104195,Sold
+P0237,2027-07-11,Bangkok,Condo,1,2,142,8008443,Pending
+P0238,2027-07-18,Phuket,House,4,4,238,6276728,Available
+P0239,2027-07-25,Pattaya,Townhouse,4,4,244,5101036,Available
+P0240,2027-08-01,Pattaya,Condo,5,4,50,14515795,Available
+P0241,2027-08-08,Khon Kaen,House,1,1,33,10727094,Available
+P0242,2027-08-15,Bangkok,Townhouse,1,3,295,14609542,Available
+P0243,2027-08-22,Bangkok,Townhouse,5,4,34,3165251,Pending
+P0244,2027-08-29,Khon Kaen,Condo,3,2,145,10866460,Sold
+P0245,2027-09-05,Khon Kaen,Condo,3,3,149,8303693,Sold
+P0246,2027-09-12,Khon Kaen,Condo,3,2,194,4214850,Available
+P0247,2027-09-19,Phuket,House,5,3,96,11108631,Sold
+P0248,2027-09-26,Bangkok,Condo,1,2,176,12058916,Pending
+P0249,2027-10-03,Phuket,Townhouse,5,1,232,8983439,Sold
+P0250,2027-10-10,Khon Kaen,Townhouse,5,4,73,12950777,Available
+P0251,2027-10-17,Bangkok,Condo,3,2,178,13416054,Sold
+P0252,2027-10-24,Phuket,Condo,2,3,92,9874883,Available
+P0253,2027-10-31,Phuket,Land,1,4,74,9687479,Available
+P0254,2027-11-07,Khon Kaen,Townhouse,3,4,176,9268541,Available
+P0255,2027-11-14,Bangkok,House,2,3,43,10546263,Sold
+P0256,2027-11-21,Khon Kaen,Land,2,2,124,3949281,Sold
+P0257,2027-11-28,Bangkok,Condo,4,1,84,8356061,Available
+P0258,2027-12-05,Pattaya,Condo,1,1,191,2294929,Available
+P0259,2027-12-12,Chiang Mai,Townhouse,2,2,226,3504594,Available
+P0260,2027-12-19,Chiang Mai,Condo,3,4,170,2243294,Available
+P0261,2027-12-26,Chiang Mai,House,4,4,188,4567675,Available
+P0262,2028-01-02,Khon Kaen,Townhouse,1,4,266,8711634,Available
+P0263,2028-01-09,Pattaya,Condo,5,4,93,10285424,Sold
+P0264,2028-01-16,Bangkok,Townhouse,3,2,199,13195693,Available
+P0265,2028-01-23,Phuket,Condo,2,4,73,3414802,Available
+P0266,2028-01-30,Bangkok,Condo,2,3,132,1443031,Available
+P0267,2028-02-06,Phuket,Condo,3,4,250,10479276,Pending
+P0268,2028-02-13,Bangkok,House,2,1,185,7444345,Sold
+P0269,2028-02-20,Pattaya,House,4,4,143,3790373,Sold
+P0270,2028-02-27,Phuket,Townhouse,1,2,173,13072052,Available
+P0271,2028-03-05,Khon Kaen,Condo,4,1,174,4916643,Available
+P0272,2028-03-12,Bangkok,Condo,2,2,167,8061183,Available
+P0273,2028-03-19,Bangkok,House,5,2,184,4287058,Sold
+P0274,2028-03-26,Phuket,Condo,1,1,35,12592111,Pending
+P0275,2028-04-02,Khon Kaen,House,1,2,162,11174124,Sold
+P0276,2028-04-09,Khon Kaen,Condo,3,2,102,13546787,Sold
+P0277,2028-04-16,Pattaya,Townhouse,3,4,101,6510493,Sold
+P0278,2028-04-23,Khon Kaen,Condo,5,3,278,1290998,Available
+P0279,2028-04-30,Khon Kaen,Condo,1,2,282,5855920,Pending
+P0280,2028-05-07,Khon Kaen,Land,5,2,287,2828022,Available
+P0281,2028-05-14,Chiang Mai,House,3,2,109,7367712,Available
+P0282,2028-05-21,Pattaya,Condo,3,4,170,12437201,Available
+P0283,2028-05-28,Bangkok,Condo,1,3,66,2409854,Available
+P0284,2028-06-04,Phuket,Land,4,1,149,8997043,Available
+P0285,2028-06-11,Bangkok,Land,2,4,191,1181360,Available
+P0286,2028-06-18,Pattaya,House,3,4,265,3444026,Available
+P0287,2028-06-25,Phuket,Land,3,3,212,3515419,Available
+P0288,2028-07-02,Pattaya,Townhouse,4,3,43,6532410,Available
+P0289,2028-07-09,Khon Kaen,Land,4,4,92,5138286,Available
+P0290,2028-07-16,Phuket,Townhouse,5,1,242,10679818,Available
+P0291,2028-07-23,Khon Kaen,House,5,4,126,14516600,Available
+P0292,2028-07-30,Bangkok,House,2,3,66,12031669,Sold
+P0293,2028-08-06,Bangkok,House,2,1,191,9333100,Sold
+P0294,2028-08-13,Phuket,House,1,3,133,7893728,Sold
+P0295,2028-08-20,Phuket,House,5,1,60,4584197,Sold
+P0296,2028-08-27,Pattaya,Townhouse,3,2,256,1311955,Available
+P0297,2028-09-03,Pattaya,Townhouse,5,3,253,3127599,Sold
+P0298,2028-09-10,Khon Kaen,House,3,3,188,11613806,Available
+P0299,2028-09-17,Phuket,Land,4,4,97,5933594,Available
+P0300,2028-09-24,Bangkok,Condo,5,3,160,10953678,Sold
+P0301,2028-10-01,Pattaya,House,4,3,94,13219950,Available
+P0302,2028-10-08,Pattaya,Land,2,2,220,5835451,Sold
+P0303,2028-10-15,Bangkok,Condo,2,3,293,5382794,Sold
+P0304,2028-10-22,Pattaya,House,1,2,73,8323494,Sold
+P0305,2028-10-29,Khon Kaen,House,5,2,154,7699144,Pending
+P0306,2028-11-05,Phuket,Townhouse,4,2,29,5698713,Available
+P0307,2028-11-12,Bangkok,Condo,3,2,51,8867791,Available
+P0308,2028-11-19,Phuket,Condo,2,1,184,4790328,Available
+P0309,2028-11-26,Pattaya,Land,2,4,173,14099507,Available
+P0310,2028-12-03,Pattaya,Townhouse,3,1,288,13285500,Sold
+P0311,2028-12-10,Bangkok,Townhouse,4,3,254,14246601,Sold
+P0312,2028-12-17,Khon Kaen,Townhouse,4,1,224,11651697,Sold
+P0313,2028-12-24,Chiang Mai,Townhouse,5,1,74,6289730,Available
+P0314,2028-12-31,Bangkok,Condo,5,3,91,12850700,Available
+P0315,2029-01-07,Chiang Mai,Condo,1,3,82,5437610,Available
+P0316,2029-01-14,Chiang Mai,House,2,3,283,4239536,Available
+P0317,2029-01-21,Khon Kaen,House,5,1,154,3326133,Sold
+P0318,2029-01-28,Chiang Mai,Townhouse,4,1,239,11128069,Available
+P0319,2029-02-04,Chiang Mai,Townhouse,3,3,196,11538832,Available
+P0320,2029-02-11,Khon Kaen,Townhouse,4,4,282,8948140,Available
+P0321,2029-02-18,Chiang Mai,House,2,4,126,6720626,Sold
+P0322,2029-02-25,Chiang Mai,Land,4,2,233,14654772,Sold
+P0323,2029-03-04,Chiang Mai,Land,1,3,140,7221714,Available
+P0324,2029-03-11,Bangkok,House,2,2,288,7374825,Available
+P0325,2029-03-18,Bangkok,House,3,4,174,6005858,Available
+P0326,2029-03-25,Bangkok,House,1,2,60,13391321,Available
+P0327,2029-04-01,Khon Kaen,House,2,3,232,8028722,Sold
+P0328,2029-04-08,Pattaya,House,3,3,130,9221252,Sold
+P0329,2029-04-15,Chiang Mai,House,1,3,182,9975708,Available
+P0330,2029-04-22,Chiang Mai,Townhouse,1,1,145,4415871,Available
+P0331,2029-04-29,Khon Kaen,Townhouse,2,2,79,11770340,Pending
+P0332,2029-05-06,Chiang Mai,Townhouse,5,4,36,2877971,Available
+P0333,2029-05-13,Bangkok,Townhouse,1,4,169,8997488,Sold
+P0334,2029-05-20,Pattaya,House,1,4,160,7814612,Available
+P0335,2029-05-27,Phuket,Land,3,1,27,5963401,Available
+P0336,2029-06-03,Chiang Mai,Condo,4,1,168,11737924,Available
+P0337,2029-06-10,Bangkok,House,2,3,54,13429667,Available
+P0338,2029-06-17,Phuket,Condo,2,4,261,3866757,Pending
+P0339,2029-06-24,Pattaya,Land,5,1,139,10725529,Available
+P0340,2029-07-01,Phuket,Townhouse,5,3,128,11636547,Available
+P0341,2029-07-08,Bangkok,Land,2,4,142,13743293,Available
+P0342,2029-07-15,Phuket,House,5,2,29,6913318,Available
+P0343,2029-07-22,Khon Kaen,Townhouse,3,3,272,7741286,Available
+P0344,2029-07-29,Phuket,House,2,1,145,2577969,Available
+P0345,2029-08-05,Chiang Mai,Townhouse,5,1,173,14487010,Sold
+P0346,2029-08-12,Chiang Mai,Condo,2,3,108,14988480,Available
+P0347,2029-08-19,Khon Kaen,Condo,4,3,255,13323607,Available
+P0348,2029-08-26,Bangkok,Condo,1,1,185,13651832,Pending
+P0349,2029-09-02,Chiang Mai,Land,2,2,296,14412963,Available
+P0350,2029-09-09,Pattaya,House,1,4,62,12135784,Pending
+P0351,2029-09-16,Chiang Mai,Land,5,2,250,12416757,Available
+P0352,2029-09-23,Chiang Mai,Condo,1,3,166,12027117,Sold
+P0353,2029-09-30,Bangkok,House,2,2,175,4651387,Sold
+P0354,2029-10-07,Phuket,Condo,4,1,138,11493291,Sold
+P0355,2029-10-14,Chiang Mai,Land,5,3,261,11916027,Pending
+P0356,2029-10-21,Khon Kaen,Land,2,4,90,2711672,Available
+P0357,2029-10-28,Phuket,Land,5,1,282,6905950,Pending
+P0358,2029-11-04,Pattaya,Condo,3,1,273,4212883,Available
+P0359,2029-11-11,Bangkok,House,1,4,204,4028631,Available
+P0360,2029-11-18,Pattaya,House,3,4,214,8232212,Available
+P0361,2029-11-25,Phuket,Condo,2,2,178,11959773,Available
+P0362,2029-12-02,Phuket,House,4,3,220,7423959,Available
+P0363,2029-12-09,Phuket,Condo,5,4,286,11167147,Available
+P0364,2029-12-16,Pattaya,House,1,4,167,7984297,Available
+P0365,2029-12-23,Phuket,Townhouse,5,3,125,5024733,Sold
+P0366,2029-12-30,Pattaya,Townhouse,2,4,268,5859221,Sold
+P0367,2030-01-06,Phuket,Land,5,4,36,10802630,Available
+P0368,2030-01-13,Khon Kaen,Townhouse,1,2,263,4801250,Available
+P0369,2030-01-20,Phuket,Townhouse,2,1,73,10340854,Available
+P0370,2030-01-27,Pattaya,Townhouse,5,1,66,1019675,Available
+P0371,2030-02-03,Chiang Mai,Condo,4,1,190,9462605,Available
+P0372,2030-02-10,Phuket,Townhouse,2,1,106,10356169,Available
+P0373,2030-02-17,Chiang Mai,Townhouse,2,4,182,11387279,Available
+P0374,2030-02-24,Khon Kaen,Land,4,3,240,1486799,Pending
+P0375,2030-03-03,Bangkok,Townhouse,3,3,182,7810805,Available
+P0376,2030-03-10,Khon Kaen,Townhouse,1,2,158,14338590,Available
+P0377,2030-03-17,Phuket,House,3,2,91,3238057,Available
+P0378,2030-03-24,Chiang Mai,Land,5,4,31,5464344,Available
+P0379,2030-03-31,Chiang Mai,Land,4,3,38,11797637,Available
+P0380,2030-04-07,Pattaya,Land,3,3,97,13310059,Sold
+P0381,2030-04-14,Chiang Mai,Land,2,1,187,1566088,Available
+P0382,2030-04-21,Pattaya,Land,5,4,90,14727532,Available
+P0383,2030-04-28,Bangkok,Land,5,4,154,7558947,Pending
+P0384,2030-05-05,Phuket,Condo,3,1,230,11151607,Sold
+P0385,2030-05-12,Pattaya,Townhouse,3,4,280,1658003,Sold
+P0386,2030-05-19,Bangkok,Land,4,4,290,11788689,Available
+P0387,2030-05-26,Chiang Mai,Townhouse,1,2,49,1805113,Sold
+P0388,2030-06-02,Chiang Mai,Townhouse,3,3,277,11851768,Available
+P0389,2030-06-09,Bangkok,Condo,3,4,188,10322004,Available
+P0390,2030-06-16,Chiang Mai,Land,2,2,119,6028035,Available
+P0391,2030-06-23,Bangkok,House,5,3,294,12551409,Available
+P0392,2030-06-30,Pattaya,Condo,1,1,134,5034464,Available
+P0393,2030-07-07,Pattaya,House,2,2,262,10992154,Available
+P0394,2030-07-14,Bangkok,Townhouse,4,2,49,3092101,Pending
+P0395,2030-07-21,Pattaya,Townhouse,4,3,165,6995134,Pending
+P0396,2030-07-28,Pattaya,Condo,3,1,141,11347918,Sold
+P0397,2030-08-04,Pattaya,Condo,3,2,49,10844689,Available
+P0398,2030-08-11,Khon Kaen,House,4,4,103,9503967,Sold
+P0399,2030-08-18,Phuket,Land,3,4,92,7208714,Available
+P0400,2030-08-25,Chiang Mai,House,1,4,197,11552467,Sold
+P0401,2030-09-01,Khon Kaen,Condo,3,1,36,13834263,Available
+P0402,2030-09-08,Pattaya,House,5,2,152,7762126,Sold
+P0403,2030-09-15,Bangkok,Condo,3,4,120,14869999,Available
+P0404,2030-09-22,Pattaya,House,2,1,116,14867206,Sold
+P0405,2030-09-29,Phuket,Condo,1,4,165,13124052,Pending
+P0406,2030-10-06,Pattaya,Condo,2,3,55,7342057,Available
+P0407,2030-10-13,Bangkok,Condo,2,2,44,4541483,Available
+P0408,2030-10-20,Phuket,Land,5,2,170,11981239,Pending
+P0409,2030-10-27,Pattaya,House,1,1,184,11072959,Available
+P0410,2030-11-03,Phuket,House,1,1,67,2512760,Sold
+P0411,2030-11-10,Chiang Mai,House,1,2,278,10851044,Available
+P0412,2030-11-17,Chiang Mai,Condo,1,4,154,4557689,Available
+P0413,2030-11-24,Pattaya,House,1,4,84,13834836,Available
+P0414,2030-12-01,Phuket,House,5,3,175,12269201,Available
+P0415,2030-12-08,Bangkok,Condo,3,4,29,2863236,Sold
+P0416,2030-12-15,Pattaya,Townhouse,2,1,290,8863426,Available
+P0417,2030-12-22,Chiang Mai,Condo,1,1,154,11735190,Available
+P0418,2030-12-29,Chiang Mai,House,3,4,291,12962073,Available
+P0419,2031-01-05,Pattaya,Condo,3,1,202,13155863,Available
+P0420,2031-01-12,Phuket,Townhouse,2,2,277,10988400,Sold
+P0421,2031-01-19,Chiang Mai,Condo,5,2,80,13863378,Pending
+P0422,2031-01-26,Phuket,House,4,4,107,1450930,Available
+P0423,2031-02-02,Chiang Mai,Townhouse,4,2,123,14981528,Sold
+P0424,2031-02-09,Chiang Mai,Land,3,2,173,8402324,Sold
+P0425,2031-02-16,Khon Kaen,House,2,3,180,14136255,Available
+P0426,2031-02-23,Chiang Mai,Townhouse,4,3,214,11790795,Pending
+P0427,2031-03-02,Bangkok,Townhouse,3,2,287,8946232,Available
+P0428,2031-03-09,Pattaya,Land,5,4,104,4498408,Available
+P0429,2031-03-16,Pattaya,Condo,4,3,276,11754208,Sold
+P0430,2031-03-23,Phuket,Condo,3,1,121,13065969,Available
+P0431,2031-03-30,Chiang Mai,House,3,1,284,6403252,Sold
+P0432,2031-04-06,Bangkok,Land,1,1,284,12427523,Sold
+P0433,2031-04-13,Phuket,Condo,5,4,127,1091006,Available
+P0434,2031-04-20,Khon Kaen,Land,1,2,64,5151785,Sold
+P0435,2031-04-27,Phuket,Condo,2,1,297,13467192,Available
+P0436,2031-05-04,Phuket,Townhouse,1,4,125,13712262,Available
+P0437,2031-05-11,Chiang Mai,Condo,1,3,245,1688725,Sold
+P0438,2031-05-18,Khon Kaen,Land,4,2,148,12291638,Pending
+P0439,2031-05-25,Phuket,Townhouse,3,3,255,10177376,Available
+P0440,2031-06-01,Bangkok,Townhouse,5,4,202,1206487,Available
+P0441,2031-06-08,Bangkok,Townhouse,1,1,87,7389308,Sold
+P0442,2031-06-15,Pattaya,Land,5,1,140,4637820,Sold
+P0443,2031-06-22,Khon Kaen,House,1,4,215,4284321,Sold
+P0444,2031-06-29,Khon Kaen,House,2,1,86,8018523,Available
+P0445,2031-07-06,Pattaya,House,1,2,280,1678841,Available
+P0446,2031-07-13,Phuket,Land,4,4,31,6420712,Available
+P0447,2031-07-20,Khon Kaen,Townhouse,3,3,179,12327910,Sold
+P0448,2031-07-27,Bangkok,House,2,4,116,4452501,Available
+P0449,2031-08-03,Bangkok,Land,1,2,38,9433840,Available
+P0450,2031-08-10,Chiang Mai,House,5,2,253,3445840,Pending
+P0451,2031-08-17,Khon Kaen,Condo,2,4,110,6451973,Available
+P0452,2031-08-24,Phuket,House,2,4,157,14609569,Pending
+P0453,2031-08-31,Pattaya,House,1,1,207,2379904,Sold
+P0454,2031-09-07,Pattaya,Townhouse,2,2,86,13237641,Sold
+P0455,2031-09-14,Phuket,Land,5,4,243,8353172,Available
+P0456,2031-09-21,Chiang Mai,Townhouse,2,4,270,2437188,Available
+P0457,2031-09-28,Pattaya,Townhouse,5,2,254,2656321,Sold
+P0458,2031-10-05,Khon Kaen,Townhouse,1,4,103,1538645,Sold
+P0459,2031-10-12,Chiang Mai,Townhouse,3,1,173,10960559,Sold
+P0460,2031-10-19,Khon Kaen,Townhouse,2,2,162,6354552,Available
+P0461,2031-10-26,Bangkok,House,3,1,89,5525121,Sold
+P0462,2031-11-02,Chiang Mai,Townhouse,5,1,37,6832801,Sold
+P0463,2031-11-09,Pattaya,Townhouse,2,1,237,12218063,Sold
+P0464,2031-11-16,Chiang Mai,Land,4,1,266,7911855,Sold
+P0465,2031-11-23,Chiang Mai,Condo,3,2,237,14447602,Sold
+P0466,2031-11-30,Chiang Mai,House,2,1,205,11891900,Sold
+P0467,2031-12-07,Chiang Mai,House,3,1,197,14700774,Available
+P0468,2031-12-14,Khon Kaen,House,2,4,184,11579029,Available
+P0469,2031-12-21,Bangkok,Townhouse,1,2,188,7550091,Available
+P0470,2031-12-28,Phuket,Townhouse,3,2,212,8790574,Available
+P0471,2032-01-04,Chiang Mai,Townhouse,4,3,215,4366823,Available
+P0472,2032-01-11,Pattaya,Land,4,2,280,11999077,Available
+P0473,2032-01-18,Chiang Mai,Condo,5,2,207,8370683,Available
+P0474,2032-01-25,Pattaya,Townhouse,2,3,141,3167354,Available
+P0475,2032-02-01,Khon Kaen,Condo,3,2,220,10485961,Sold
+P0476,2032-02-08,Pattaya,Land,5,2,58,7439522,Pending
+P0477,2032-02-15,Phuket,House,3,2,76,6047999,Available
+P0478,2032-02-22,Bangkok,Townhouse,2,2,136,5385010,Pending
+P0479,2032-02-29,Pattaya,Condo,4,3,276,5818750,Available
+P0480,2032-03-07,Pattaya,Condo,1,2,106,5991536,Available
+P0481,2032-03-14,Bangkok,Townhouse,4,2,256,10212863,Available
+P0482,2032-03-21,Phuket,House,5,3,251,4471750,Available
+P0483,2032-03-28,Chiang Mai,House,1,4,257,5475156,Sold
+P0484,2032-04-04,Pattaya,House,5,1,245,3765331,Sold
+P0485,2032-04-11,Bangkok,Land,2,4,66,9070297,Available
+P0486,2032-04-18,Khon Kaen,Condo,1,3,45,9976766,Available
+P0487,2032-04-25,Bangkok,Condo,5,1,66,3630723,Available
+P0488,2032-05-02,Khon Kaen,Condo,2,3,137,13220269,Available
+P0489,2032-05-09,Phuket,Land,4,3,129,1865139,Available
+P0490,2032-05-16,Chiang Mai,Condo,2,2,216,10967246,Available
+P0491,2032-05-23,Bangkok,Land,3,1,41,8543159,Sold
+P0492,2032-05-30,Pattaya,House,2,2,144,6384935,Pending
+P0493,2032-06-06,Phuket,Townhouse,2,1,153,13155092,Available
+P0494,2032-06-13,Bangkok,Condo,3,3,154,3901717,Pending
+P0495,2032-06-20,Pattaya,Condo,5,3,84,7285939,Available
+P0496,2032-06-27,Bangkok,House,5,4,72,7816525,Available
+P0497,2032-07-04,Khon Kaen,Townhouse,2,1,53,3211738,Available
+P0498,2032-07-11,Bangkok,Land,3,2,121,6692796,Sold
+P0499,2032-07-18,Bangkok,Townhouse,3,4,34,9678376,Pending
+P0500,2032-07-25,Bangkok,House,4,4,266,7822567,Sold
